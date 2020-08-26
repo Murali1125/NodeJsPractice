@@ -1,0 +1,7 @@
+
+    "id": 1,
+    "first_name": "Kelley",
+    "last_name": "Mower",
+    "email": "kmower0@cmu.edu",
+    "gender": "Male",
+    "ip_address": "117.233.79.162"
